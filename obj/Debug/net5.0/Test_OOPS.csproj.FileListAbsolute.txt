@@ -1,0 +1,16 @@
+C:\My_Projects\Test_OOPS\bin\Debug\net5.0\Test_OOPS.exe
+C:\My_Projects\Test_OOPS\bin\Debug\net5.0\Test_OOPS.deps.json
+C:\My_Projects\Test_OOPS\bin\Debug\net5.0\Test_OOPS.runtimeconfig.json
+C:\My_Projects\Test_OOPS\bin\Debug\net5.0\Test_OOPS.runtimeconfig.dev.json
+C:\My_Projects\Test_OOPS\bin\Debug\net5.0\Test_OOPS.dll
+C:\My_Projects\Test_OOPS\bin\Debug\net5.0\ref\Test_OOPS.dll
+C:\My_Projects\Test_OOPS\bin\Debug\net5.0\Test_OOPS.pdb
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\Test_OOPS.csproj.AssemblyReference.cache
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\Test_OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\Test_OOPS.AssemblyInfoInputs.cache
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\Test_OOPS.AssemblyInfo.cs
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\Test_OOPS.csproj.CoreCompileInputs.cache
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\Test_OOPS.dll
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\ref\Test_OOPS.dll
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\Test_OOPS.pdb
+C:\My_Projects\Test_OOPS\obj\Debug\net5.0\Test_OOPS.genruntimeconfig.cache
